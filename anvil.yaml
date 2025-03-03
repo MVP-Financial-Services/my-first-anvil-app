@@ -1,7 +1,7 @@
 allow_embedding: false
 dependencies: []
-name: M3 App 1
-package_name: M3_App_1
+name: My First Anvil App
+package_name: My_First_Anvil_App
 renamed: true
 runtime_options:
   client_version: '3'
