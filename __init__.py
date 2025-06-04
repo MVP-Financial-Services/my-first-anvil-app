@@ -1,3 +1,4 @@
+# This is the test of GitHub connection
 #
 # This repository is an Anvil app. Learn more at https://anvil.works/
 # To run the server-side code on your own machine, run:
